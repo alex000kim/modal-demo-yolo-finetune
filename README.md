@@ -28,3 +28,7 @@ modal run yolo-sku110k.py
 
 This will download the dataset, train the model, and create preview images.
 
+## Sample Output
+
+![Sample Output 1](samples/img1.jpeg)
+![Sample Output 2](samples/img2.jpeg)
